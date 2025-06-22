@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kwesi – aka *kwesithedev*
 
-<!--
-**KwesitheDev/kwesithedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring fullstack developer passionate about crafting clean, responsive, and user-friendly interfaces. I love working with React and bringing ideas to life through modern web technologies.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- ⚛️ React, JavaScript (ES6+), TypeScript
+- 🖌️ HTML5, CSS3, Sass, TailwindCSS
+- 🛠️ Git & GitHub, VS Code
+- 🗄️ MongoDB, Node.js, REST APIs,Express.js
+- 🌐 Responsive Web Design & Accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Projects
+
+<!--| Name | Description | Live Demo |
+|------|-------------|-----------|
+| **Portfolio Website** | My personal site built with React and styled with Tailwind. | [kwesithedev.github.io](https://kwesithedev.github.io) |
+| **Project X** | A cool web app that does amazing things. | [Live Demo](#) |
+| **Another App** | A small project that showcases my work with APIs. | [Live Demo](#) | -->
+
+> Check out more in my [repositories](https://github.com/kwesithedev?tab=repositories)
+
+## 📫 Let's Connect
+- LinkedIn: [linkedin.com/in/kwesithedev](https://linkedin.com)
+<!--- Portfolio: [kwesithedev.github.io](https://kwesithedev.github.io) -->
+- Email: kwesithedev@gmail.com
+
+---
+
+_Thanks for stopping by! Feel free to ⭐️ or fork any repo that inspires you._
+
+
