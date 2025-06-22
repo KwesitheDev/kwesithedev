@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kwesi – aka *kwesithedev*
+# 👋 Hi, I'm Kwesi ### *kwesithedev*
 
 I'm an aspiring fullstack developer passionate about crafting clean, responsive, and user-friendly interfaces. I love working with React and bringing ideas to life through modern web technologies.
 
