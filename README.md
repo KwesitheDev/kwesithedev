@@ -22,8 +22,9 @@ I'm an aspiring fullstack developer passionate about crafting clean, responsive,
 
 ## 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/kwesithedev](https://linkedin.com)
-<!--- Portfolio: [kwesithedev.github.io](https://kwesithedev.github.io) -->
+- Portfolio: [kwesithedev.github.io](https://kwesithedev.github.io)
 - Email: kwesithedev@gmail.com
+- Website: https://kwesithedev.me
 
 ---
 
