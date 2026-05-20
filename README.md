@@ -61,7 +61,7 @@ I design and build **full-stack web applications** that solve real business prob
 - 🧩 Built with: React + TailwindCSS
 - 🎯 Focus: Speed, responsiveness, accessibility
 
-🔗 https://kwesithedev.me
+🔗 https://kwesi-thedev.netlify.app/
 
 ---
 
@@ -97,7 +97,7 @@ I’m currently available for:
 ### 📬 Contact Me
 
 - 📧 Email: **kwesithedev@gmail.com**
-- 🌐 Portfolio: https://kwesithedev.me
+- 🌐 Portfolio: https://kwesi-thedev.netlify.app/
 - 💼 LinkedIn: https://linkedin.com/in/kwesithedev
 
 ---
