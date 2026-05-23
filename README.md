@@ -104,7 +104,8 @@ I design and build **full-stack web and mobile applications** that solve real bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwesitheDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KwesitheDev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KwesitheDev&theme=tokyonight" />
 </p>
 
 <p align="center">
