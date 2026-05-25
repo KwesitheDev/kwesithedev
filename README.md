@@ -10,7 +10,7 @@
   <a href="mailto:kwesithedev@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://kwesithedev.me">
+  <a href="https://kwesi-thedev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-kwesithedev.me-black?style=for-the-badge&logo=vercel">
   </a>
   <a href="https://linkedin.com/in/kwesithedev">
@@ -135,7 +135,7 @@ I'm currently available for:
 | Channel      | Link                                                               |
 | ------------ | ------------------------------------------------------------------ |
 | 📧 Email     | [kwesithedev@gmail.com](mailto:kwesithedev@gmail.com)              |
-| 🌐 Portfolio | [kwesithedev.me](https://kwesithedev.me)                           |
+| 🌐 Portfolio | [kwesithedev.me](https://kwesi-thedev.netlify.app)                 |
 | 💼 LinkedIn  | [linkedin.com/in/kwesithedev](https://linkedin.com/in/kwesithedev) |
 | ✈️ Telegram  | [t.me/kwesithedev](https://t.me/kwesithedev)                       |
 
