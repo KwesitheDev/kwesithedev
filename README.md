@@ -109,7 +109,7 @@ I design and build **full-stack web and mobile applications** that solve real bu
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KwesitheDev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KwesitheDev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
