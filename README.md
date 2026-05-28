@@ -31,7 +31,7 @@ I design and build **full-stack web and mobile applications** that solve real bu
 - 📱 Ship cross-platform mobile apps with React Native & Expo
 - ⚡ Turn ideas into fast, responsive web apps
 - 📊 Focus on clean architecture, performance, and great UX
-- 🌍 Work with clients globally (based in Ghana 🇬🇭)
+- 🌍 Working with clients globally (based in Ghana 🇬🇭)
 
 ---
 
