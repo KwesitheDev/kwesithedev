@@ -1,146 +1,155 @@
-# 👋 Hi, I'm Kwesi (KwesitheDev)
+# Hi, I'm Kwesi — KwesiTheDev
 
-### 🚀 Full-Stack & Mobile Developer | I build scalable apps that help businesses run better
+### I build software that solves real business problems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Full-Stack+%26+Mobile+Developer;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Firebase+%7C+MongoDB;Open+to+Freelance+Opportunities&center=true&width=600&height=50&pause=1000" />
-</p>
+I'm a **full-stack software developer based in Ghana**, working with businesses and teams to turn ideas, inefficiencies, and operational problems into practical digital solutions.
 
-<p align="center">
-  <a href="mailto:kwesithedev@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Contact%20Now-blue?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://kwesithedev.com">
-    <img src="https://img.shields.io/badge/Portfolio-kwesithedev.com-black?style=for-the-badge&logo=vercel">
-  </a>
-  <a href="https://linkedin.com/in/kwesithedev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://t.me/kwesithedev">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram">
-  </a>
-</p>
+I build **web applications, internal tools, SaaS products, and mobile apps** — with a focus on solving the actual problem behind the software, not just shipping features.
 
 ---
 
-## 🧠 What I Do
+## What I Build
 
-I design and build **full-stack web and mobile applications** that solve real business problems — from dashboards and SaaS tools to AI-powered mobile apps.
+I help businesses replace manual, inefficient, or disconnected processes with software designed around how they actually work.
 
-- 🔧 Build scalable SaaS products, internal tools, and MVPs
-- 📱 Ship cross-platform mobile apps with React Native & Expo
-- ⚡ Turn ideas into fast, responsive web apps
-- 📊 Focus on clean architecture, performance, and great UX
-- 🌍 Working with clients globally (based in Ghana 🇬🇭)
+### Web Applications
 
----
+Customer-facing websites, dashboards, portals, platforms, and full-stack applications.
 
-## 🛠️ Tech Stack
+### Custom Business Software
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,mongodb,firebase,supabase,git,expo" />
-</p>
+Internal tools and systems built around specific workflows, including management platforms, administrative systems, and business operations software.
 
----
+### SaaS & MVPs
 
-## 🔥 Featured Projects
+From an initial idea to a working product that can be tested with real users and developed further.
 
----
+### Mobile Applications
 
-### 🏠 RentFlow — Property Maintenance System
+Cross-platform mobile applications for businesses and product ideas using React Native and Expo.
 
-**A centralized platform for managing property service requests efficiently**
+### Digital Experiences
 
-- 🧩 **Built with:** React, Node.js, MongoDB
-- ⚡ **Solves:** Disorganized maintenance tracking for property managers
-- 📈 **Outcome:** Real-time service request tracking with a full admin dashboard
-
-📌 **Live Demo:** [rentflow-maintenance.vercel.app](https://rentflow-maintenance.vercel.app/)
-💻 **Source Code:** [github.com/KwesitheDev/RentFlow-Maintenance](https://github.com/KwesitheDev/RentFlow-Maintenance)
+Fast, responsive, accessible websites and interfaces designed to help businesses attract, serve, and retain customers.
 
 ---
 
-### 🔥 HabitForge — AI-Powered Habit Tracker
+## My Approach
 
-**A full-featured mobile habit tracking app with AI-driven insights and advanced analytics**
+**Business problem → Understand the workflow → Design the solution → Build → Improve**
 
-- 🧩 **Built with:** React Native, Expo, Firebase (Auth + Firestore), TensorFlow.js
-- ⚡ **Features:** Streak tracking, daily push notifications, activity heatmaps, weekly/monthly analytics, Google Sign-In
-- 📈 **Outcome:** Production-ready mobile app with real-time sync and an AI motivation engine
+I don't believe every business problem needs a complicated system.
 
-📱 **Live Demo:** [Expo Preview](https://expo.dev/accounts/kwesithedev/projects/Habit-Forge/updates/65870c08-f0ea-4257-ac8d-a6a30df35234)
-💻 **Source Code:** [github.com/KwesitheDev/Habit-Forge](https://github.com/KwesitheDev/Habit-Forge)
+The goal is to build the **right solution for the problem** — whether that's a website, a custom internal tool, an automated workflow, a mobile app, or a complete web platform.
 
----
+I care about:
 
-### 📋 Attendance Monitoring System — QR-Based Attendance for Institutions
-
-**A full-stack web app enabling educational institutions to track attendance via QR codes**
-
-- 🧩 **Built with:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS
-- ⚡ **Features:** Three-role system (Admin, Lecturer, Student), live QR code generation and scanning, audit logs, attendance analytics
-- 📈 **Outcome:** End-to-end attendance management platform with role-based access control
-
-💻 **Source Code:** [github.com/KwesitheDev/Attendance-Monitoring-System](https://github.com/KwesitheDev/Attendance-Monitoring-System)
+- Clear requirements and practical solutions
+- Clean, maintainable architecture
+- Performance and reliability
+- Responsive and intuitive user experiences
+- Scalable foundations without unnecessary complexity
+- Building software that can actually be used in the real world
 
 ---
 
-### 💊 MedTrack — Medication Tracking App
+## Tech Stack
 
-**A TypeScript-first mobile app for tracking medications and health routines**
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-- 🧩 **Built with:** React Native, TypeScript, Expo
-- ⚡ **Solves:** Missed doses and inconsistent health routines
-- 📈 **Outcome:** Clean, type-safe mobile app with structured health data management
+**Backend:** Node.js, Express, REST APIs
 
-💻 **Source Code:** [github.com/KwesitheDev/MedTrack](https://github.com/KwesitheDev/MedTrack)
+**Databases & Services:** PostgreSQL, MongoDB, Firebase, Supabase
 
----
+**Mobile:** React Native, Expo
 
-> 💡 Explore more in my [repositories](https://github.com/KwesitheDev?tab=repositories)
+**Tools:** Git, GitHub, Vercel, Netlify
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KwesitheDev&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KwesitheDev&theme=tokyonight" />
-</p>
+### RentFlow — Property Maintenance System
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KwesitheDev&theme=tokyonight&hide_border=true" />
-</p>
+A centralized platform designed to help property managers organize and track maintenance requests.
 
----
+**Problem:** Maintenance requests can become difficult to track when information is scattered across messages, calls, and spreadsheets.
 
-## 📈 Contribution Activity
+**Solution:** A centralized system for submitting, managing, assigning, and tracking property maintenance requests.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KwesitheDev&theme=tokyo-night&hide_border=true" />
-</p>
+**Built with:** React · Node.js · MongoDB
+
+[Live Demo](https://rentflow-maintenance.vercel.app/) · [Source Code](https://github.com/KwesitheDev/RentFlow-Maintenance)
 
 ---
 
-## 🤝 Work With Me
+### HabitForge — AI-Powered Habit Tracker
 
-I'm currently available for:
+A cross-platform mobile application combining habit tracking, analytics, notifications, and AI-driven motivation.
 
-- 💼 Freelance web & mobile projects
-- 🚀 Startup collaborations
-- 🛠️ Building MVPs and SaaS products
+**Built with:** React Native · Expo · Firebase · TensorFlow.js
 
-### 📬 Contact
+**Features:** Habit tracking · Streaks · Push notifications · Activity heatmaps · Analytics · Google Sign-In · AI motivation
 
-| Channel      | Link                                                               |
-| ------------ | ------------------------------------------------------------------ |
-| 📧 Email     | [kwesithedev@gmail.com](mailto:kwesithedev@gmail.com)              |
-| 🌐 Portfolio | [kwesithedev.com](https://kwesithedev.com)                         |
-| 💼 LinkedIn  | [linkedin.com/in/kwesithedev](https://linkedin.com/in/kwesithedev) |
-| ✈️ Telegram  | [t.me/kwesithedev](https://t.me/kwesithedev)                       |
+[Expo Preview](https://expo.dev/accounts/kwesithedev/projects/Habit-Forge/updates/65870c08-f0ea-4257-ac8d-a6a30df35234) · [Source Code](https://github.com/KwesitheDev/Habit-Forge)
 
 ---
 
-<p align="center">
-  ⭐️ If you find my work useful, consider starring a repo — it helps more than you'd think!
-</p>
+### Attendance Monitoring System
+
+A QR-based attendance management platform built for educational institutions.
+
+**Problem:** Manual attendance collection and fragmented records make attendance tracking slow and difficult to audit.
+
+**Solution:** A role-based platform allowing administrators, lecturers, and students to manage attendance through QR-based check-ins.
+
+**Built with:** React · Node.js · Express · MongoDB · JWT · Tailwind CSS
+
+**Features:** Role-based access · QR generation and scanning · Attendance analytics · Audit logs
+
+[Source Code](https://github.com/KwesitheDev/Attendance-Monitoring-System)
+
+---
+
+### MedTrack
+
+A TypeScript-first mobile application for managing medications and health routines.
+
+**Built with:** React Native · TypeScript · Expo
+
+**Focus:** Structured health data management, medication tracking, and a clean mobile experience.
+
+[Source Code](https://github.com/KwesitheDev/MedTrack)
+
+---
+
+## More Projects
+
+You can explore my other experiments, applications, and development work in my repositories.
+
+**[View all repositories →](https://github.com/KwesitheDev?tab=repositories)**
+
+---
+
+## Currently
+
+I'm focused on building software for businesses and product teams that need to:
+
+- Improve inefficient workflows
+- Replace manual processes
+- Build customer-facing digital experiences
+- Launch new digital products
+- Turn an idea into a working MVP
+- Develop custom software around a specific business need
+
+I'm particularly interested in projects where **software can create a measurable improvement in how a business operates or serves its customers.**
+
+---
+
+## Let's Build Something Useful
+
+Have a business problem that could be solved with software?
+
+**[Visit my portfolio →](https://kwesithedev.com/)**
+
+Or reach me directly at **[kwesithedev@gmail.com](mailto:kwesithedev@gmail.com)**.
