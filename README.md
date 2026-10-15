@@ -8,7 +8,7 @@ I help businesses solve practical problems with digital solutions — from websi
 
 I don't start with software. **I start with the problem.**
 
-[Portfolio](https://kwesithedev.com/) · [Projects](https://kwesithedev.com/projects) · [Get in touch](https://kwesithedev.com/contact)
+[Portfolio](https://kwesithedev.com/) · [Projects](https://kwesithedev.com/projects) · [Get in touch](https://kwesithedev.com/contact) · [Explore Services](https://kwesithedev.com/services)
 
 ---
 
@@ -197,5 +197,7 @@ Let's figure out whether software is the right solution.
 **[kwesithedev.com](https://kwesithedev.com/)**
 
 **[Start a conversation](https://kwesithedev.com/contact)**
+
+**[Explore Services](https://kwesithedev.com/services)**
 
 **[kwesithedev@gmail.com](mailto:kwesithedev@gmail.com)**
